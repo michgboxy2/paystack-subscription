@@ -60,6 +60,7 @@ export default {
                 display_name: this.firstName,
                 lastName: this.lastName,
                 email: this.email,
+                firstName: this.firstName,
                 variable_name: 'email',
                 value: this.email
             }
